@@ -1,0 +1,2 @@
+# stealth
+robust hardware parts.
